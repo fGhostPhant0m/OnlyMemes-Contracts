@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraries/UniswapV2Library.sol": "UniswapV2Library"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/interfaces/IUniswapV2ERC20.sol": {
+			"keccak256": "0xb7a7d9346e47d5fff119559e14a8938f2be66a2d6a7aa31492922b68bfc46848",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://21e31a64d3433034e55303d9fd4ae13148223a517217ed167f1fa1f8148fd38d",
+				"dweb:/ipfs/QmV4f5fHpmdpMzRzGvzbBwdcdZwCA3TzsLa4gLKGfv777s"
+			]
+		},
+		"contracts/interfaces/IUniswapV2Factory.sol": {
+			"keccak256": "0xc9cbb298a2060208ce25b86503ed0847cae62af2388d14a2f75e1fdbff279eef",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://db26fe6f4e4f5c9ac18d0c341bf85f9da9cd687ea52adb21473757d221380b1d",
+				"dweb:/ipfs/QmVLDW2KDbE5XP7VksmddscMbpCoj3EQk9PcLkSLdLoF8E"
+			]
+		},
+		"contracts/interfaces/IUniswapV2Pair.sol": {
+			"keccak256": "0xcedef9cc480337fba270782127e7d9db965afadf2c57eab00e6ee2419a21aab0",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://93c80cde81a3a7b286b4f9759d1bf67511d76d63015f4e8fa3be1add4735bb24",
+				"dweb:/ipfs/QmddrpuvyHD9LY7nPijH8zy4vQEX9KLQgkW1RmiLRhdoVJ"
+			]
+		},
+		"contracts/libraries/UniswapV2Library.sol": {
+			"keccak256": "0xeeff01c569f43fe09a6a8753ae885841e3018834d5f99861841023c6f2de5b01",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://290acafbd1f244d74bf76aec06040244ce6fb5e6263bba2089b9045bed67a75f",
+				"dweb:/ipfs/QmahR7vHAfjBG3FPD3bzJGzyK9QWpAqE7FVmuSRf2iUkfM"
+			]
+		}
+	},
+	"version": 1
+}
